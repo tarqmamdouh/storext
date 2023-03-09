@@ -12,3 +12,4 @@ gemspec
 
 gem 'pry'
 gem 'appraisal'
+gem 'sprockets-rails'

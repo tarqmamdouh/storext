@@ -4,7 +4,8 @@ source "https://rubygems.org"
 
 gem "pry"
 gem "appraisal"
-gem "rails", "5.2.1"
+gem "rails", "7.0.0"
+gem "sprockets-rails", require: "sprockets/railtie"
 gem "pg", "~> 1.0"
 
 gemspec path: "../"
